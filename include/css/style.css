@@ -7,3 +7,8 @@
     .navbar-v1-block.remove{height: 0 !important; width: 100%!important;}
     .navbar-v1-block.full{height: 100dvh !important;}
   }
+  .about-current-working {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+  }
